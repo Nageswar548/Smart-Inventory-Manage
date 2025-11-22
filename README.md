@@ -92,7 +92,7 @@ The system tracks products, manages sales operations, generates analytics, and u
 
 ## 📽 Demo Video
 
-👉 *Add your demo video link here*
+👉 *(https://screenrec.com/share/DSYrPdvLfh)*
 
 ---
 
